@@ -38,7 +38,7 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 
 ###  Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=00BFFF" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70"/>
   <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=FF8C00" height="70"/>
   <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=c%2B%2B&logoColor=FF1493" height="70"/>
   <img src="https://img.shields.io/badge/R-121212?style=for-the-badge&logo=r&logoColor=00FFFF" height="70"/>
