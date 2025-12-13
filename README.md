@@ -5,7 +5,7 @@
 <div style="height: 40px;"></div>
 
 <h3 align="center" style="color:#00FFFF; margin-top:0;">
-  Aspiring AI/ML Engineer | Data Scientist | GenAI Practitioner
+  Robotics Engineer | Patent Holder | Autonomous Systems Architect
 </h3>
 
 
@@ -15,9 +15,9 @@
 ##  About Me
 
  **Location:** Navi Mumbai, India  
- **Education:** Final Year B.Tech in *Electronics & Telecommunication (Minor in AI)* – RAIT  
- **CGPA:** 8.79 / 10  
- **Email:** [ojasshen1584@gmail.com](mailto:ojasshen1584@gmail.com)  
+ **Education:** Final Year B.Tech in *Electronics & Telecommunication Specialization in Robotics* – RAIT  
+ **CGPA:** 9.09 / 10  
+ **Email:** [kshitizsaxena2611@gmail.com](mailto:kshitizsaxena2611@gmail.com)  
 
 Passionate about building intelligent systems that merge **AI, Data, and Automation**.  
 Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, focusing on **real-world GenAI applications** and data-driven reasoning systems.
