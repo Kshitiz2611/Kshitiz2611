@@ -139,8 +139,8 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 
 ##  GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ojas1584&show_icons=true&theme=radical&bg_color=0A0A0A&text_color=00FFFF&icon_color=00C6FF&title_color=00C6FF" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas1584&theme=radical&background=0A0A0A&stroke=00C6FF&ring=00FFFF&fire=00C6FF&currStreakNum=00FFFF&sideNums=00C6FF" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kshitiz2611&show_icons=true&theme=radical&bg_color=0A0A0A&text_color=00FFFF&icon_color=00C6FF&title_color=00C6FF" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitiz2611&theme=radical&background=0A0A0A&stroke=00C6FF&ring=00FFFF&fire=00C6FF&currStreakNum=00FFFF&sideNums=00C6FF" width="47%" />
 </p>
 
 
@@ -148,7 +148,7 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 
 ## Fun Fact
 <blockquote align="center">
-  <h3 style="color:#00C6FF;">“Turning complex data into meaningful intelligence that powers human-like systems.”</h3>
+  <h3 style="color:#00C6FF;">“Building tomorrow's intelligent machines, today.”</h3>
 </blockquote>
 
 ---
@@ -158,7 +158,7 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ojas1584&label=Profile%20Views&color=00C6FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Kshitiz2611&label=Profile%20Views&color=00C6FF&style=flat" alt="Profile views" />
   <br>
-  <i>Last Updated: October 2025</i>
+  <i>Last Updated: December 2025</i>
 </p>
