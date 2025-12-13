@@ -122,13 +122,13 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 
 ##  Connect With Me
 <p align="center">
-  <a href="mailto:ojasshen1584@gmail.com" target="_blank">
+  <a href="mailto:kshitizsaxena2611@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=00FFFF" height="70"/>
   </a>
-  <a href="https://www.linkedin.com/in/ojas-s-5322a1297/" target="_blank">
+  <a href="https://www.linkedin.com/in/kshitizsaxena26/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00C6FF" height="70"/>
   </a>
-  <a href="https://github.com/Ojas1584" target="_blank">
+  <a href="https://github.com/Kshitiz2611" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=00C6FF" height="70"/>
   </a>
 </p>
