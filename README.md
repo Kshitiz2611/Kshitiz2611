@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Kshitiz%20Saxena&fontSize=40&fontColor=00FFFF&pattern=circuit&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=160&text=Kshitiz%20Saxena&fontColor=00C6FF&pattern=hexagon&animation=scaleIn" />
 </p>
 
 
