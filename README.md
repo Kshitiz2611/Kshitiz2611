@@ -20,8 +20,11 @@
  **CGPA:** 9.09 / 10  
  **Email:** [kshitizsaxena2611@gmail.com](mailto:kshitizsaxena2611@gmail.com)  
 
-Passionate about building intelligent systems that merge **AI, Data, and Automation**.  
-Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, focusing on **real-world GenAI applications** and data-driven reasoning systems.
+Bringing imagination to life — passionate about creating intelligent robotic systems that move from concept to reality.
+
+Skilled in **ROS, Computer Vision, Embedded Systems, PCB Design, and 3D Modeling**. Fueled by an insatiable hunger to tackle complex problems and engineer solutions that work beyond the screen.
+
+Where algorithms meet hardware, and ideas become autonomous machines.
 
 ---
 
