@@ -36,7 +36,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000"height="70"/>
 <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=000000"height="70"/>
 <img src="https://img.shields.io/badge/R Programming-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000000"height="70"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111" height="70"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111&labelColor=000000"height="70"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=000000"height="70"/>
 </p>
 
@@ -45,10 +45,10 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ### Embedded and Robotics Frameworks
 <p align="center">
-<img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=00E5FF&labelColor=000000"height="70"/>
-<img src="https://img.shields.io/badge/ESPIDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=000000"height="70"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=000000"height="70"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000"height="70"/>
+<img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=00E5FF" height="70"/>
+<img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="70"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" height="70"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="70"/>
 <img src="./ROS.png" height="50" title="ROS"/> 
 <img src="./SLAM.png" height="50" title="SLAM"/> 
 <img src="./moveit.png" height="50" title="Moveit!"/> 
