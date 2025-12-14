@@ -56,7 +56,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 </p
 
 
-### Robotics Framworks
+### Robotics Frameworks
 <p align="center"> 
   <img src="https://img.shields.io/badge/ROS-121212?style=for-the-badge&logo=ros&logoColor=00BFFF" height="60" title="ROS"/>
   <img src="https://img.shields.io/badge/SLAM-121212?style=for-the-badge&logo=ros&logoColor=00BFFF" height="60" title="SLAM"/>
@@ -78,13 +78,11 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 ###  MLOps & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=00BFFF" height="70"/>
-  <img src="https://img.shields.io/badge/MLflow-121212?style=for-the-badge&logo=mlflow&logoColor=00FFFF" height="70"/>
   <img src="https://img.shields.io/badge/FastAPI-121212?style=for-the-badge&logo=fastapi&logoColor=00FA9A" height="70"/>
-  <img src="https://img.shields.io/badge/Streamlit-121212?style=for-the-badge&logo=streamlit&logoColor=FF1493" height="70"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-121212?style=for-the-badge&logo=githubactions&logoColor=00FFFF" height="70"/>
   <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="70"/>
   <img src="https://img.shields.io/badge/Bash%20Scripting-121212?style=for-the-badge&logo=gnu-bash&logoColor=00FF7F" height="70"/>
-  <img src="https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="70"/>
+  
 </p>
 
 ###  Databases & Backend
