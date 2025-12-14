@@ -32,22 +32,23 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ###  Languages
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=000000"/>
 </p>
+
 
 
 
 ### Embedded and Robotics Frameworks
 <p align="center">
-<img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=00E5FF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000"/>
 <img src="./ROS.png" height="50" title="ROS"/> 
 <img src="./SLAM.png" height="50" title="SLAM"/> 
 <img src="./moveit.png" height="50" title="Moveit!"/> 
@@ -101,42 +102,19 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ##  Featured Projects
 
-**<a href="https://github.com/Ojas1584/Clinical_Decision_Support_RAG">Clinical Decision Support System (RAG)</a>**  
-- RAG pipeline sourcing NCCN & ICMR guidelines, improving relevance by 40%.  
-- Processed 500+ complex PDFs into Weaviate vector DB via Python + Marker.  
-- Benchmarked Llama 3.1, Mistral; selected **Llama 3.1** for best reasoning & faithfulness.  
-**Stack:** Python · LangChain · Weaviate · Llama 3.1 · NLP  
 
-**<a href="https://github.com/Ojas1584/ArucoMarkerDetectionDrone">Marker-Based UAV Navigation (Patent Filed)</a>**  
-- Robust indoor autonomy using ArUco markers.  
-- Custom ID-based logic boosted detection accuracy by 30%.  
-- Adaptive motion planning reduced path error by 40%.  
-**Stack:** Python · OpenCV · ROS · Computer Vision  
-
-**<a href="https://github.com/Ojas1584/Leaf-Disease-Detection-YOLOv8-">Leaf Disease Detection (YOLOv8)</a>**  
-- 97% accuracy in classifying plant diseases.  
-- 25% robustness improvement under variable lighting via augmentation.  
-**Stack:** Python · YOLOv8 · Deep Learning  
-
-**<a href="https://github.com/Ojas1584/A_star_PathPlanningAlgorithm_Drone">A Star Path Planning for Drones</a>**  
-- Optimized A* in ROS/Gazebo; 95% obstacle avoidance.  
-- Reduced mission time by 15% through re-planning.  
-**Stack:** Python · ROS · Gazebo  
-
----
 
 ##  Connect With Me
 <p align="center">
-  <a href="mailto:kshitizsaxena2611@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=00FFFF" height="70"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kshitizsaxena26/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00C6FF" height="70"/>
-  </a>
-  <a href="https://github.com/Kshitiz2611" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=00C6FF" height="70"/>
-  </a>
+<a href="mailto:kshitizsaxena2611@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/kshitizsaxena26/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/Kshitiz2611">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
+
 
 
 
