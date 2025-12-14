@@ -55,7 +55,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ### Embedded Frameworks
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/PX4/px4_logo/master/px4_logo.png" height="60" title="PX4"/>
+  <img src="./px4logo.png" height="60" title="PX4"/>
   <img src="https://logo.svgcdn.com/s/espressif-dark.png" height="60" title="ESP32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" title="Raspberry Pi"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" title="Arduino"/>
