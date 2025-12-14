@@ -32,24 +32,23 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ###  Languages
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=matlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
-
-
 
 
 ### Embedded Frameworks
 <p align="center">
-<img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/Kshitiz2611/Kshitiz2611/main/px4logo.png&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/PX4-black?style=for-the-badge&logo=px4&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
+
 
 
 
