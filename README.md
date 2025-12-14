@@ -46,12 +46,6 @@ Where algorithms meet hardware, and ideas become autonomous machines.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60"/>
 </p>
 
-### Robotics Framworks
-<p align="center"> 
-  <img src="https://img.shields.io/badge/ROS-121212?style=for-the-badge&logo=ros&logoColor=00BFFF" height="60" title="ROS"/>
-  <img src="https://img.shields.io/badge/SLAM-121212?style=for-the-badge&logo=ros&logoColor=00BFFF" height="60" title="SLAM"/>
-  <img src="https://img.shields.io/badge/MoveIt!-121212?style=for-the-badge&logo=ros&logoColor=00BFFF" height="60" title="MoveIt!"/>
-</p>
 
 ### Embedded Frameworks
 <p align="center"> 
@@ -60,7 +54,16 @@ Where algorithms meet hardware, and ideas become autonomous machines.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" title="Raspberry Pi"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" title="Arduino"/>
 </p
-  
+
+
+
+### Robotics Framworks
+<p align="center"> 
+  <img src="https://img.shields.io/badge/ROS-121212?style=for-the-badge&logo=ros&logoColor=00BFFF" height="60" title="ROS"/>
+  <img src="https://img.shields.io/badge/SLAM-121212?style=for-the-badge&logo=ros&logoColor=00BFFF" height="60" title="SLAM"/>
+  <img src="https://img.shields.io/badge/MoveIt!-121212?style=for-the-badge&logo=ros&logoColor=00BFFF" height="60" title="MoveIt!"/>
+</p>
+
 ### Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge&logo=pytorch&logoColor=FF4500" height="60"/>
