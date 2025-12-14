@@ -84,7 +84,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 ### Simulation
 <p align="center">
 <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=FF6600&labelColor=000000" height="70"/>
-<img src="https://img.shields.io/badge/CoppeliaSim-00A6D6?style=for-the-badge&logo=v-rep&logoColor=00A6D6&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/CoppeliaSim(VREP)-00A6D6?style=for-the-badge&logo=v-rep&logoColor=00A6D6&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/Simulink-FF6B35?style=for-the-badge&logo=mathworks&logoColor=FF6B35&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/IsaacSim-76B900?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=000000" height="70"/>
 </p>
