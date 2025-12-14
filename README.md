@@ -32,13 +32,21 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ###  Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60"/>
+
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MATLAB-Numerical%20Computing-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/R-Statistics-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Swift-iOS%20%26%20macOS-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+
 </p>
+
 
 
 ### Embedded Frameworks
