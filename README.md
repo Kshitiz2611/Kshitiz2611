@@ -81,7 +81,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000" height="70"/>
 </p>
 
-### Simulation 
+### Robotics Simulation and Visualization
 <p align="center">
 <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=FF6600&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=000000" height="70"/>
@@ -91,6 +91,13 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 </p>
 
 
+### Desigining 
+<p align="center">
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=314CB0&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/Fusion_360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=FF6B00&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=FF0000&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=F5792A&labelColor=000000" height="70"/>
+</p>
 
 ###  Databases & Backend
 <p align="center">
