@@ -45,11 +45,9 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ### Embedded and Robotics Frameworks
 <p align="center">
-
 <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=000000"height="70"/> 
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=000000"height="70"/> 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000"height="70"/>
-
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/SLAM-4B5563?style=for-the-badge" height="70"/>
 <img src="https://img.shields.io/badge/MoveIt-1F6FEB?style=for-the-badge&logo=moveit&logoColor=white&labelColor=000000" height="70"/>
