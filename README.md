@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0066FF&height=160&section=header&text=Kshitiz%20Saxena&fontSize=40&fontColor=000000&animation=wave&pattern=mesh&motion=fast" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Kshitiz%20Saxena&fontSize=40&fontColor=00FFFF&pattern=circuit&animation=fadeIn" />
 </p>
 
 <div style="height: 40px;"></div>
