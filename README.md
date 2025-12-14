@@ -54,8 +54,9 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 ### Robotics Frameworks
 <p align="center"> 
   <img src="./ROS.png" height="50" title="ROS"/>
-  <img src="./SLAM.png" height="60" title="SLAM"/>
+  <img src="./SLAM.png" height="70" title="SLAM"/>
   <img src="./moveit.png" height="50" title="Moveit!"/>
+  <img src="./MOOS-ivp.png" height="50" title="MOOS"/>
 </p>
 
 ### Libraries
