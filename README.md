@@ -45,9 +45,9 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ### Embedded and Robotics Frameworks
 <p align="center">
-<img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=000000"height="70"/> 
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=000000"height="70"/> 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000"height="70"/>
+<img src="https://img.shields.io/badge/ESP--IDF-121212?style=for-the-badge&logo=espressif&logoColor=E7352C" height="70"/> 
+<img src="https://img.shields.io/badge/Raspberry%20Pi-121212?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A" height="70"/> 
+<img src="https://img.shields.io/badge/Arduino-121212?style=for-the-badge&logo=arduino&logoColor-00979D" height="70"/>
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/SLAM-4B5563?style=for-the-badge" height="70"/>
 <img src="https://img.shields.io/badge/MoveIt-1F6FEB?style=for-the-badge&logo=moveit&logoColor=white&labelColor=000000" height="70"/>
@@ -58,16 +58,16 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ### Libraries
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" height="60"/>
-<img src="https://img.shields.io/badge/TensorFlow-121212?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" height="60"/>
-<img src="https://img.shields.io/badge/Keras-121212?style=for-the-badge&logo=keras&logoColor=D0006F" height="60"/>
-<img src="https://img.shields.io/badge/Scikit--learn-121212?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" height="60"/>
-<img src="https://img.shields.io/badge/OpenCV-121212?style=for-the-badge&logo=opencv&logoColor=FF7900" height="60"/>
-<img src="https://img.shields.io/badge/MediaPipe-121212?style=for-the-badge&logo=python&logoColor=00CED1" height="60"/>
-<img src="https://img.shields.io/badge/YOLO-121212?style=for-the-badge&logo=python&logoColor=FFB400" height="60"/>
-<img src="https://img.shields.io/badge/PCL-121212?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="60"/>
-<img src="https://img.shields.io/badge/Open3D-121212?style=for-the-badge&logo=python&logoColor=00CED1" height="60"/>
-<img src="https://img.shields.io/badge/CoreML-121212?style=for-the-badge&logo=apple&logoColor=999999" height="70"/>
+<span style="background-color:#EE4C2C; color:white; padding:5px 10px; border-radius:3px; font-weight:bold;">PyTorch</span>
+<span style="background-color:#FF6F00; color:white; padding:5px 10px; border-radius:3px; font-weight:bold;">TensorFlow</span>
+<span style="background-color:#D0006F; color:white; padding:5px 10px; border-radius:3px; font-weight:bold;">Keras</span>
+<span style="background-color:#F7931E; color:white; padding:5px 10px; border-radius:3px; font-weight:bold;">Scikit-learn</span>
+<span style="background-color:#FF7900; color:white; padding:5px 10px; border-radius:3px; font-weight:bold;">OpenCV</span>
+<span style="background-color:#00CED1; color:white; padding:5px 10px; border-radius:3px; font-weight:bold;">MediaPipe</span>
+<span style="background-color:#FFB400; color:white; padding:5px 10px; border-radius:3px; font-weight:bold;">YOLO</span>
+<span style="background-color:#00599C; color:white; padding:5px 10px; border-radius:3px; font-weight:bold;">PCL</span>
+<span style="background-color:#00CED1; color:white; padding:5px 10px; border-radius:3px; font-weight:bold;">Open3D</span>
+<span style="background-color:#999999; color:white; padding:5px 10px; border-radius:3px; font-weight:bold;">CoreML</span>
 </p>
 
 ###  MLOps & Tools
