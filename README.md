@@ -137,15 +137,6 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 
 
 
----
-
-##  GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kshitiz2611&show_icons=true&theme=radical&bg_color=0A0A0A&text_color=00FFFF&icon_color=00C6FF&title_color=00C6FF" width="47%" />
-</p>
-
-
----
 
 ## Fun Fact
 <blockquote align="center">
