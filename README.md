@@ -58,16 +58,16 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ### Libraries
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge&logo=pytorch&logoColor=FF4500" height="60"/>
-<img src="https://img.shields.io/badge/TensorFlow-121212?style=for-the-badge&logo=tensorflow&logoColor=FFA500" height="60"/>
-<img src="https://img.shields.io/badge/Keras-121212?style=for-the-badge&logo=keras&logoColor=FF004F" height="60"/>
-<img src="https://img.shields.io/badge/Scikit--learn-121212?style=for-the-badge&logo=scikitlearn&logoColor=00FFFF" height="60"/>
-<img src="https://img.shields.io/badge/OpenCV-121212?style=for-the-badge&logo=opencv&logoColor=39FF14" height="60"/>
-<img src="https://img.shields.io/badge/MediaPipe-121212?style=for-the-badge&logo=python&logoColor=00CED1" height="60"/>
-<img src="https://img.shields.io/badge/YOLO-121212?style=for-the-badge&logo=python&logoColor=FFD700" height="60"/>
-<img src="https://img.shields.io/badge/PCL-121212?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF" height="60"/>
-<img src="https://img.shields.io/badge/Open3D-121212?style=for-the-badge&logo=python&logoColor=00CED1" height="60"/>
-<img src="https://img.shields.io/badge/CoreML-121212?style=for-the-badge&logo=apple&logoColor=FFFFFF" height="70"/>
+<img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" height="60"/>
+<img src="https://img.shields.io/badge/TensorFlow-121212?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" height="60"/>
+<img src="https://img.shields.io/badge/Keras-121212?style=for-the-badge&logo=keras&logoColor=D00000" height="60"/>
+<img src="https://img.shields.io/badge/Scikit--learn-121212?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" height="60"/>
+<img src="https://img.shields.io/badge/OpenCV-121212?style=for-the-badge&logo=opencv&logoColor=5C3EE8" height="60"/>
+<img src="https://img.shields.io/badge/MediaPipe-121212?style=for-the-badge&logo=google&logoColor=4285F4" height="60"/>
+<img src="https://img.shields.io/badge/YOLO-121212?style=for-the-badge&logo=yolo&logoColor=00FFFF" height="60"/>
+<img src="https://img.shields.io/badge/PCL-121212?style=for-the-badge&logo=pointcloudlibrary&logoColor=3DDC84" height="60"/>
+<img src="https://img.shields.io/badge/Open3D-121212?style=for-the-badge&logo=python&logoColor=1F8ACB" height="60"/>
+<img src="https://img.shields.io/badge/CoreML-121212?style=for-the-badge&logo=apple&logoColor=FFFFFF" height="60"/>
 </p>
 
 ###  MLOps & Tools
