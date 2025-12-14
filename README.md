@@ -66,7 +66,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=00FFFF&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/PCL-3DDC84?style=for-the-badge&logo=pointcloudlibrary&logoColor=white&labelColor=000000" height="70"/>
-<img src="https://img.shields.io/badge/Open3D-1F8ACB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/Open3D-1F8ACB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000" height="70"/>
  <img src="https://img.shields.io/badge/CoreML-121212?style=for-the-badge&logo=apple&logoColor=FFFFFF" height="70"/>
 <img src="https://img.shields.io/badge/FastAPI-00FA9A?style=for-the-badge&logo=fastapi&logoColor=00FA9A&labelColor=000000" height="70"/>
 </p>
@@ -84,7 +84,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 ### Simulation 
 <p align="center">
 <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=FF6600&labelColor=000000" height="70"/>
-<img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=00CED1&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/CoppeliaSim(VREP)-00A6D6?style=for-the-badge&logo=v-rep&logoColor=00A6D6&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/Simulink-FF6B35?style=for-the-badge&logo=mathworks&logoColor=FF6B35&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/IsaacSim-76B900?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=000000" height="70"/>
@@ -112,7 +112,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=00CED1&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=39FF14&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFA500&labelColor=000000" height="70"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=39FF14&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000" height="70"/>
 </p>
 
 ---
