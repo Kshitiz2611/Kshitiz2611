@@ -73,11 +73,10 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ###  DevOps Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=00BFFF" height="70"/>
-  <img src="https://img.shields.io/badge/FastAPI-121212?style=for-the-badge&logo=fastapi&logoColor=00FA9A" height="70"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-121212?style=for-the-badge&logo=githubactions&logoColor=00FFFF" height="70"/>
-  <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="70"/>
-  <img src="https://img.shields.io/badge/Bash%20Scripting-121212?style=for-the-badge&logo=gnu-bash&logoColor=00FF7F" height="70"/>  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=000000" height="70"/>  
 </p>
 
 ### Simulation
