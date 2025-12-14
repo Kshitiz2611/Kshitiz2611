@@ -124,9 +124,6 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ---
 
-##  Featured Projects
-
-
 
 ##  Connect With Me
 <p align="center">
