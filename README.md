@@ -53,7 +53,12 @@ Where algorithms meet hardware, and ideas become autonomous machines.
   <img src="https://img.shields.io/badge/MoveIt!-121212?style=for-the-badge&logo=ros&logoColor=00BFFF" height="60" title="MoveIt!"/>
 </p>
 
-
+### Embedded Frameworks
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/PX4/px4_logo/master/px4_logo.png" height="60" title="PX4"/>
+  <img src="https://logo.svgcdn.com/s/espressif-dark.png" height="60" title="ESP32"/>
+</p
+  
 ### Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge&logo=pytorch&logoColor=FF4500" height="60"/>
