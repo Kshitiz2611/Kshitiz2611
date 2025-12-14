@@ -67,7 +67,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=000000" height="60"/>
 <img src="https://img.shields.io/badge/PCL-3DDC84?style=for-the-badge&logo=pointcloudlibrary&logoColor=white&labelColor=000000" height="60"/>
 <img src="https://img.shields.io/badge/Open3D-1F8ACB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" height="60"/>
-<img src="https://img.shields.io/badge/CoreML-FFFFFF?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="60"/>
+<img src="https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="60"/>
 </p>
 
 ###  MLOps & Tools
