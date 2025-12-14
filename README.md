@@ -55,7 +55,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 <p align="center"> 
   <img src="./ROS.png" height="50" title="ROS"/>
   <img src="./SLAM.png" height="70" title="SLAM"/>
-  <img src="./moveit.png" height="50" title="Moveit!"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moveit/moveit-original.svg" height="60" style="vertical-align:middle; margin-right:10px;" />
   <img src="./MOOS-ivp.png" height="50" title="MOOS"/>
 </p>
 
