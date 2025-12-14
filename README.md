@@ -56,7 +56,6 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 </p
 
 
-
 ### Robotics Framworks
 <p align="center"> 
   <img src="https://img.shields.io/badge/ROS-121212?style=for-the-badge&logo=ros&logoColor=00BFFF" height="60" title="ROS"/>
