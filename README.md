@@ -68,7 +68,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 <img src="https://img.shields.io/badge/PCL-3DDC84?style=for-the-badge&logo=pointcloudlibrary&logoColor=white&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/Open3D-1F8ACB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000" height="70"/>
  <img src="https://img.shields.io/badge/CoreML-121212?style=for-the-badge&logo=apple&logoColor=FFFFFF" height="70"/>
-<img src="https://img.shields.io/badge/FastAPI-121212?style=for-the-badge&logo=fastapi&logoColor=00FA9A&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/FastAPI-121212?style=for-the-badge&logo=fastapi&logoColor=00FA9A&labelColor=00FA9A" height="70"/>
 </p>
 
 ###  DevOps Tools
