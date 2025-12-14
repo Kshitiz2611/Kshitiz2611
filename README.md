@@ -47,7 +47,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
   <img src="https://logo.svgcdn.com/s/espressif-dark.png" height="60" title="ESP32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" title="Raspberry Pi"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" title="Arduino"/>
-</p
+</p>
 
 
 
