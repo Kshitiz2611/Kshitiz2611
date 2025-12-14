@@ -58,9 +58,9 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ### Robotics Frameworks
 <p align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="60" title="ROS"/>
+  <img src="./ROS.png" height="50" title="ROS"/>
   <img src="./SLAM.png" height="60" title="SLAM"/>
-  <img src="./moveit.png" height="60" title="Moveit!"/>
+  <img src="./moveit.png" height="50" title="Moveit!"/>
 </p>
 
 ### Libraries
