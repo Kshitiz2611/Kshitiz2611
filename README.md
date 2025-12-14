@@ -64,7 +64,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=00FFFF&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=39FF14&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000" height="70"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=00FFFF&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/PCL-3DDC84?style=for-the-badge&logo=pointcloudlibrary&logoColor=white&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/Open3D-1F8ACB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" height="70"/>
  <img src="https://img.shields.io/badge/CoreML-121212?style=for-the-badge&logo=apple&logoColor=FFFFFF" height="70"/>
