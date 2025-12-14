@@ -52,12 +52,18 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 
 ### Robotics Frameworks
-<p align="center"> 
-  <img src="./ROS.png" height="50" title="ROS"/>
-  <img src="./SLAM.png" height="50" title="SLAM"/>
-  <img src="./moveit.png" height="50" title="Moveit!"/>
-  <img src="./MOOS-ivp.png" height="50" title="MOOS"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/ROS-Framework-blue?style=for-the-badge&logo=https://raw.githubusercontent.com/Kshitiz2611/Kshitiz2611/main/ROS.png&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SLAM-Navigation-green?style=for-the-badge&logo=https://raw.githubusercontent.com/Kshitiz2611/Kshitiz2611/main/SLAM.png&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MoveIt-Motion%20Planning-purple?style=for-the-badge&logo=https://raw.githubusercontent.com/Kshitiz2611/Kshitiz2611/main/moveit.png&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MOOS--IvP-Marine%20Robotics-darkblue?style=for-the-badge&logo=https://raw.githubusercontent.com/Kshitiz2611/Kshitiz2611/main/MOOS-ivp.png&logoColor=white"/>
+
 </p>
+
 
 ### Libraries
 <p align="center">
