@@ -90,7 +90,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=00FF7F&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=00BFFF&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FF8C00&labelColor=000000" height="70"/>
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=FF00FF&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/Neo4j-FF00FF?style=for-the-badge&logo=neo4j&logoColor=FF00FF&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=FDEE21&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=yellow&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Apache_Mahout-D22128?style=for-the-badge&logo=apache&logoColor=FF6B6B&labelColor=000000" height="70"/>
