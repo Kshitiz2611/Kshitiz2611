@@ -87,17 +87,16 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ###  Databases & Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=00FF7F" height="70"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=00BFFF" height="70"/>
-  <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=FF8C00" height="70"/>
-  <img src="https://img.shields.io/badge/Neo4j-121212?style=for-the-badge&logo=neo4j&logoColor=FF00FF" height="70"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=00FF7F&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=00BFFF&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FF8C00&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=FF00FF&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=FDEE21&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=yellow&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Apache_Mahout-D22128?style=for-the-badge&logo=apache&logoColor=FF6B6B&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Apache_Pig-FF6B6B?style=for-the-badge&logo=apache&logoColor=FF6B6B&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/HCatalog-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=FDEE21&labelColor=000000" height="70"/>
-  
-  <img src="https://img.shields.io/badge/SQLite-121212?style=for-the-badge&logo=sqlite&logoColor=00CED1" height="70"/>
+ <img src="https://img.shields.io/badge/SQLITE-4479A1?style=for-the-badge&logo=sqlite&logoColor=39FF14&labelColor=000000"height="70"/>
 </p>
 
 ###  Data & Visualization
