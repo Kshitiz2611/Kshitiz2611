@@ -81,9 +81,10 @@ Where algorithms meet hardware, and ideas become autonomous machines.
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000" height="70"/>
 </p>
 
-### Simulation
+### Simulation 
 <p align="center">
 <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=FF6600&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=00CED1&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/CoppeliaSim(VREP)-00A6D6?style=for-the-badge&logo=v-rep&logoColor=00A6D6&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/Simulink-FF6B35?style=for-the-badge&logo=mathworks&logoColor=FF6B35&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/IsaacSim-76B900?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=000000" height="70"/>
@@ -107,12 +108,11 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ###  Data & Visualization
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=FF1493" height="70"/>
-  <img src="https://img.shields.io/badge/Numpy-121212?style=for-the-badge&logo=numpy&logoColor=00CED1" height="70"/>
-  <img src="https://img.shields.io/badge/Matplotlib-121212?style=for-the-badge&logo=plotly&logoColor=39FF14" height="70"/>
-  <img src="https://img.shields.io/badge/Seaborn-121212?style=for-the-badge&logo=python&logoColor=FFD700" height="70"/>
-  <img src="https://img.shields.io/badge/PowerBI-121212?style=for-the-badge&logo=powerbi&logoColor=F5DE19" height="70"/>
-  <img src="https://img.shields.io/badge/Jupyter-121212?style=for-the-badge&logo=jupyter&logoColor=FFA500" height="70"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FF1493&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=00CED1&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=39FF14&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFA500&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=39FF14&labelColor=000000" height="70"/>
 </p>
 
 ---
