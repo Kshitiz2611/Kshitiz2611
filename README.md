@@ -87,13 +87,13 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 <img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/CoppeliaSim(VREP)-00A6D6?style=for-the-badge&logo=v-rep&logoColor=00A6D6&labelColor=000000" height="70"/>
 <img src="https://img.shields.io/badge/Simulink-FF6B35?style=for-the-badge&logo=mathworks&logoColor=FF6B35&labelColor=000000" height="70"/>
-<img src="https://img.shields.io/badge/IsaacSim-76B900?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=000000" height="70"/>
+<img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=000000" height="70"/>
 </p>
 
 
 ### Desigining 
 <p align="center">
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=FF6B00&labelColor=000000" height="70"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=FCC624&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Fusion_360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=FF6B00&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/SolidWorks-D00000?style=for-the-badge&logo=dassaultsystemes&logoColor=FF0000&labelColor=000000" height="70"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=F5792A&labelColor=000000" height="70"/>
