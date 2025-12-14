@@ -30,11 +30,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ##  Current Work
 
-**Swift Multi-Modal Assistive Translator**  
-- macOS Vision + ML Model + Haptic Glove translating speech-to-Braille for deafblind accessibility.  
-- Real-time transcription and haptic feedback using a 6-motor glove system.  
-- Decoupled Vision and Haptic modules for independent debugging and deployment.  
-**Stack:** Swift · CoreML · BiLSTM · AVFoundation · Python
+
 
 ---
 
@@ -51,19 +47,17 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 </p>
 
 
-###  AI / ML Frameworks & Libraries
+### Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge&logo=pytorch&logoColor=FF4500" height="70"/>
-  <img src="https://img.shields.io/badge/TensorFlow-121212?style=for-the-badge&logo=tensorflow&logoColor=FFA500" height="70"/>
-  <img src="https://img.shields.io/badge/Keras-121212?style=for-the-badge&logo=keras&logoColor=FF004F" height="70"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-121212?style=for-the-badge&logo=scikitlearn&logoColor=00FFFF" height="70"/>
-  <img src="https://img.shields.io/badge/HuggingFace-121212?style=for-the-badge&logo=huggingface&logoColor=FFD700" height="70"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=00BFFF" height="70"/>
-  <img src="https://img.shields.io/badge/SpaCy-121212?style=for-the-badge&logo=spacy&logoColor=00FA9A" height="70"/>
-  <img src="https://img.shields.io/badge/OpenCV-121212?style=for-the-badge&logo=opencv&logoColor=39FF14" height="70"/>
-  <img src="https://img.shields.io/badge/Transformers-121212?style=for-the-badge&logo=python&logoColor=FFD700" height="70"/>
-  <img src="https://img.shields.io/badge/CoreML-121212?style=for-the-badge&logo=apple&logoColor=FFFFFF" height="70"/>
-</p>
+  <img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge&logo=pytorch&logoColor=FF4500" height="60"/>
+  <img src="https://img.shields.io/badge/TensorFlow-121212?style=for-the-badge&logo=tensorflow&logoColor=FFA500" height="60"/>
+  <img src="https://img.shields.io/badge/Keras-121212?style=for-the-badge&logo=keras&logoColor=FF004F" height="60"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-121212?style=for-the-badge&logo=scikitlearn&logoColor=00FFFF" height="60"/>
+  <img src="https://img.shields.io/badge/OpenCV-121212?style=for-the-badge&logo=opencv&logoColor=39FF14" height="60"/>
+  <img src="https://img.shields.io/badge/MediaPipe-121212?style=for-the-badge&logo=python&logoColor=00CED1" height="60"/>
+  <img src="https://img.shields.io/badge/YOLO-121212?style=for-the-badge&logo=python&logoColor=FFD700" height="60"/>
+  <img src="https://img.shields.io/badge/PCL-121212?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF" height="60"/>
+  <img src="https://img.shields.io/badge/Open3D-121212?style=for-the-badge&logo=python&logoColor=00CED1" height="60"/>
 
 ###  MLOps & Tools
 <p align="center">
