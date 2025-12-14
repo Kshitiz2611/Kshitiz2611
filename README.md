@@ -32,30 +32,25 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 
 ###  Languages
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MATLAB-Numerical%20Computing-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/R-Statistics-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Swift-iOS%20%26%20macOS-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
+
 
 
 
 ### Embedded Frameworks
-<p align="center"> 
-  <img src="./px4logo.png" height="60" title="PX4"/>
-  <img src="https://logo.svgcdn.com/s/espressif-dark.png" height="60" title="ESP32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" title="Raspberry Pi"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" title="Arduino"/>
+<p align="center">
+<img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/Kshitiz2611/Kshitiz2611/main/px4logo.png&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
+
 
 
 ### Robotics Frameworks
