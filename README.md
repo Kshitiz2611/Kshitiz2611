@@ -36,7 +36,7 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000"height="70"/>
 <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=000000"height="70"/>
 <img src="https://img.shields.io/badge/R Programming-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000000"height="70"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=queue&logoColor=39FF14&labelColor=000000"height="70"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=39FF14&labelColor=000000"height="70"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=FA7343&labelColor=000000"height="70"/>
 </p>
 
