@@ -16,9 +16,8 @@
 ##  About Me
 
  **Location:** Navi Mumbai, India  
- **Education:** Final Year B.Tech in *Electronics & Telecommunication Specialization in Robotics* – RAIT  
- **CGPA:** 9.09 / 10  
- **Email:** [kshitizsaxena2611@gmail.com](mailto:kshitizsaxena2611@gmail.com)  
+ **Education:** Final Year B.Tech in *Electronics & Telecommunication Specialization in Robotics* – RAIT   
+ **Email:** [kshitizsaxena2611@gmail.com](mailto:kshitizsaxena7771@gmail.com)  
 
 Bringing imagination to life — passionate about creating intelligent robotic systems that move from concept to reality.
 
