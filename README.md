@@ -44,6 +44,11 @@ Where algorithms meet hardware, and ideas become autonomous machines.
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=000000" height="80"/>
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=000000" height="80"/>
 <img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=00E5FF&labelColor=000000"height="80"/>
+<img src="https://img.shields.io/badge/I2C-Protocol-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000" height="80"/>
+<img src="https://img.shields.io/badge/SPI-Protocol-FF6B35?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000" height="80"/>
+<img src="https://img.shields.io/badge/UART-Protocol-4CAF50?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000" height="80"/>
+<img src="https://img.shields.io/badge/PX4-Autopilot-000000?style=for-the-badge&logo=px4&logoColor=00E5FF&labelColor=000000" height="80"/>
+<img src="https://img.shields.io/badge/QGroundControl-FF0000?style=for-the-badge&logo=qgc&logoColor=white&labelColor=000000" height="80"/>  
 </p>
 
 
